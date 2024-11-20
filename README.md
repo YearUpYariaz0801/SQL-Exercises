@@ -1,2 +1,3 @@
-# Wb7-Exercises
-MySQL
+# Exercise1
+
+Year Up MySQL
